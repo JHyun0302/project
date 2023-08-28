@@ -15,6 +15,6 @@
     4. 외부 설정
     5. 모니터링 & 관리 기능
 
-    - 정리 : 자동 구성 라이브러리 사용하기
-        - 직접 만든 `memory-v2.jar` 파일을 라이브러리로 추가
-        - build.gradle 추가 : `implementation files('libs/memory-v2.jar')`
+- 정리 : 자동 구성 라이브러리 사용하기
+    - 직접 만든 `memory-v2.jar` 파일을 라이브러리로 추가
+    - build.gradle 추가 : `implementation files('libs/memory-v2.jar')`
